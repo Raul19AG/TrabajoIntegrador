@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(28, 197, 223);
+  }
+
+  button {
+    border-radius: 2em;
+    background-color: rgb(79, 117, 241);
+  }
+  #infoPer{
+    background-color: rgb(221, 229, 143);
+    border-radius: 0.5em;
+  }
+
+  #Formacion {
+    background-color: rgb(212, 64, 150);
+    border-radius: 0.5em;
+  }
+  #Experiencia {
+    background-color: rgba(187, 125, 10, 0.979);
+    border-radius: 0.5em;
+  }
+  #video {
+    background-color: rgb(0, 0, 0);
+    border-radius: 0.5em;
+  }
+  #foto {
+    background-color: rgb(0, 0, 0);
+    border-radius: 0.5em;
+  }
